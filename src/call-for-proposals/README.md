@@ -12,8 +12,6 @@ This section is intended to provide a single source of truth for Vue.js develope
 
 ## Current CFPs
 
-<CFPList />
-
 ## FAQs
 
 ### How do I add my conference on here?

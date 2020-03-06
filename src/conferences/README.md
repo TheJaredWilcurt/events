@@ -8,34 +8,59 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 
 ## Upcoming
 
-### [VueDay Alicante 2019](http://vueday.org)
+### [VueJS Amsterdam](https://vuejs.amsterdam/)
 
-- Date: May 31st, 2019
-- Location: Alicante, Spain
+- **Dates:** February 20th - 21th, 2020
+- **Location:** Amsterdam, The Netherlands
 
-### [VueConf China](https://vue.w3ctech.com/)
+### [VueConfUS](https://vueconf.us/)
 
-- Date: June 8th, 2019
-- Location: Shanghai, China
+- **Dates:** March 2nd - 4th, 2020
+- **Location:** Austin, Texas, USA
 
-### [JSFoo: VueDay](https://hasgeek.com/jsfoo/2019-vueday/)
+### [Vue Vixens Day](https://vvdayus.vuevixens.org/)
 
-- Date: August 30th, 2019
-- Location: Bangalore, India
+- **Dates:** March 5th, 2020
+- **Location:** Austin, Texas, USA
 
-### [Vue London](https://vuejs.london/)
+## Past
 
-- Dates: October 3rd - 4th, 2019
-- Location:  London, United Kingdom
+### 2019
 
 ### [VueConf Toronto](https://vuetoronto.com/)
 
 - Date: November 11th - 12th, 2019
 - Location: Toronto, Canada
 
-## Past
+### [Vuecamp Germany](https://vuecamp.de/)
 
-### 2019
+- Dates: October 26th - 27th, 2019
+- Location: Berlin, Germany
+
+### [Vue Fes Japan 2019](https://vuefes.jp/2019/)
+
+- Dates: October 12th, 2019
+- Location: Tokyo, Japan
+
+### [Vue London](https://vuejs.london/)
+
+- Dates: October 3rd - 4th, 2019
+- Location: London, United Kingdom
+
+### [JSFoo: VueDay](https://hasgeek.com/jsfoo/2019-vueday/)
+
+- Date: August 30th, 2019
+- Location: Bangalore, India
+
+### [VueConf China](https://vue.w3ctech.com/)
+
+- Date: June 8th, 2019
+- Location: Shanghai, China
+
+### [VueDay Alicante 2019](http://vueday.org)
+
+- Date: May 31st, 2019
+- Location: Alicante, Spain
 
 ### [AwesomeConf](https://awesomeconf.dev/)
 
@@ -52,12 +77,10 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 - Date: March 26th - 27th, 2019
 - Location: [Straz Art Center, Tampa, Florida, USA](https://www.google.com/maps/place/David+A.+Straz,+Jr.+Center+for+the+Performing+Arts/@27.9516845,-82.4663922,17z/data=!3m1!4b1!4m5!3m4!1s0x88c2c46055555555:0xbaea2283bc930b0d!8m2!3d27.9516845!4d-82.4642035)
 
-
 #### [VueJS Amsterdam](https://www.vuejs.amsterdam/)
 
 - Date: February 14th - 15th, 2019
 - Location: [Danzigerkade 5, 1013 AP Amsterdam, Netherlands](https://www.google.com/maps/place/Amsterdam+Theater/@52.3970285,4.8750425,17z/data=!3m1!4b1!4m5!3m4!1s0x47c608288dc127bf:0xdb0d328fc38eae6!8m2!3d52.3970285!4d4.8772312)
-
 
 ### 2018
 
